@@ -1,0 +1,13 @@
+{
+  "name": "security-demo",
+  "version": "1.0.0",
+  "description": "A simple web app demonstrating a couple of basic vulnerabilities",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alexander Curtis",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
